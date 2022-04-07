@@ -71,7 +71,8 @@ discord_user: tag_m#0444
     'twitter_handle',
     'cdc_username',
     'cro_wallet_address',
-    'loaded_lion'
+    'ballie_id',
+    'number_of_ballies'
 }
 ```
 
