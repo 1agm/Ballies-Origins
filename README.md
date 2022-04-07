@@ -67,11 +67,12 @@ discord_user: tag_m#0444
 > **_NOTE:_**  By completing this step, you agree that we may store the following information about you: 
 ```
 {
-    'discord_user',
+    'discord_user_name',
     'twitter_handle',
     'cdc_username',
     'cro_wallet_address',
     'ballie_id',
+    'discord_user_id'
     'number_of_ballies'
 }
 ```
