@@ -72,7 +72,7 @@ discord_user: tag_m#0444
     'cdc_username',
     'cro_wallet_address',
     'ballie_id',
-    'discord_user_id'
+    'discord_user_id',
     'number_of_ballies'
 }
 ```
