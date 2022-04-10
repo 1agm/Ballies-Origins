@@ -77,7 +77,7 @@ discord_user: tag_m#0444
 ```
 
 
-Post the following command into the ```🤖︱verification-bot-commands``` channel
+Post the following command into the ```✅・holder-verification``` channel
 
 Structure:
 
