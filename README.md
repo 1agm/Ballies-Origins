@@ -86,7 +86,3 @@ Structure:
 Example:
 
 ```!verify https://twitter.com/11ag_m/status/1496565020389527559?s=20&t=CU_WngDPx_rYgF7ByRu8xg```
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/98609855/162299083-2b1ab365-fb33-4f36-bbc4-ee0dd87b59b9.png">
-</p>
