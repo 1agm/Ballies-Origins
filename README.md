@@ -9,7 +9,7 @@
 ### Log in to the CDC NFT platform https://crypto.com/nft/ and go to "Edit Profile" <a name="step11"></a>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98609855/155387837-16e7bf86-698a-4764-9cb5-0ef4979df447.png">
+  <img src="https://user-images.githubusercontent.com/98609855/162613514-721f6c15-3a5b-46cf-b4fa-21850f81675e.png">
 </p>
 
 ### Enter your Twitter handle and save the changes <a name="step12"></a>
@@ -21,20 +21,20 @@
 ### View your profile as public <a name="step13"></a>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98609855/155389115-3749d752-839d-450d-922d-3ddadc446ca3.png">
+  <img src="https://user-images.githubusercontent.com/98609855/162613527-872ffc07-8d6e-41e8-bbfe-e17b18f7853e.png">
 </p>
 
 ### Copy the URL to your profile <a name="step14"></a>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98609855/155389398-f6b58245-c38b-4c8f-8249-748ee3ad490d.png">
+  <img src="https://user-images.githubusercontent.com/98609855/162613592-bef3215e-c9f4-4c8c-a7fd-2bd46be00a8c.png">
 </p>
 
 ## Step 2 <a name="step2"></a>
 ### Copy your Discord username <a name="step21"></a>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98609855/155390300-5c5be96c-49e2-44f6-963b-216b36570b6f.gif">
+  <img src="https://user-images.githubusercontent.com/98609855/162613671-3a2189ef-ea93-4c95-a487-61c920404e0b.gif">
 </p>
 
 ## Step 3 <a name="step3"></a>
@@ -52,15 +52,14 @@ discord_user: tag_m#0444
 ```
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98609855/155391523-fcd4f4bd-8303-496c-aa1d-1b871462ff30.png">
+  <img src="https://user-images.githubusercontent.com/98609855/162613699-7b85c98e-7cd2-4b36-88f0-a667dd45e805.png">
 </p>
 
-### Copy link to tweet <a name="step32"></a>
+### Copy ```link to tweet``` <a name="step32"></a>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98609855/155391573-73d09da6-f3d8-4f03-85f0-56cb74b34573.png">
+  <img src="https://user-images.githubusercontent.com/98609855/162614005-6f8b2943-6ca2-4fad-ac5b-3d6020fb6bdb.gif">
 </p>
-
 
 ## Step 4 <a name="step4"></a>
 ### Execute the Discord command <a name="step41"></a>
@@ -82,7 +81,7 @@ Post the following command into the ```🤖︱verification-bot-commands``` chann
 
 Structure:
 
-```!verify {your tweet link}```
+!verify ```link to tweet```
 
 Example:
 
